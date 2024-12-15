@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.19;
 
 // 1️⃣ Make a contract called Calculator
 // 2️⃣ Create Result variable to store result
